@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noexcusesg
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,Java,C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
